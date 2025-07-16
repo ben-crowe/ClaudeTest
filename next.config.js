@@ -6,7 +6,7 @@ const nextConfig = {
   },
   // Enable static export for easier deployment
   output: 'export',
-  trailingSlash: true,
+  trailingSlash: false,
   // Configure asset paths for static export
   assetPrefix: '',
 }
