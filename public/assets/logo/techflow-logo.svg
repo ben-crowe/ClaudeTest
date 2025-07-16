@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="myGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0066CC" />
+            <stop offset="100%" stop-color="#0052A3" />
+        </linearGradient>
+    </defs>
+    <!-- Workflow nodes -->
+    <circle r="6" cx="15" cy="25" fill="url(#myGradient)"/>
+    <circle r="6" cx="35" cy="25" fill="url(#myGradient)"/>
+    <circle r="6" cx="55" cy="25" fill="url(#myGradient)"/>
+    <!-- Connecting lines -->
+    <line x1="21" y1="25" x2="29" y2="25" style="stroke:#0052A3;stroke-width:2" />
+    <line x1="41" y1="25" x2="49" y2="25" style="stroke:#0052A3;stroke-width:2" />
+    <!-- Company name -->
+    <text x="70" y="30" font-family="Inter, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#0052A3">
+        TechFlow Solutions
+    </text>
+</svg>
