@@ -20,6 +20,7 @@ export default function Navigation() {
           <div className="hidden md:flex items-center space-x-8">
             <a href="#products" className="text-gray-700 hover:text-techflow-blue transition-colors">Products</a>
             <a href="#pricing" className="text-gray-700 hover:text-techflow-blue transition-colors">Pricing</a>
+            <a href="/brand-guide" className="text-gray-700 hover:text-techflow-blue transition-colors">Brand Guide</a>
             <a href="#blog" className="text-gray-700 hover:text-techflow-blue transition-colors">Blog</a>
             <a href="#docs" className="text-gray-700 hover:text-techflow-blue transition-colors">Docs</a>
             <a href="#contact" className="text-gray-700 hover:text-techflow-blue transition-colors">Contact</a>
@@ -51,6 +52,7 @@ export default function Navigation() {
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
               <a href="#products" className="text-gray-700 hover:text-techflow-blue block px-3 py-2 transition-colors">Products</a>
               <a href="#pricing" className="text-gray-700 hover:text-techflow-blue block px-3 py-2 transition-colors">Pricing</a>
+              <a href="/brand-guide" className="text-gray-700 hover:text-techflow-blue block px-3 py-2 transition-colors">Brand Guide</a>
               <a href="#blog" className="text-gray-700 hover:text-techflow-blue block px-3 py-2 transition-colors">Blog</a>
               <a href="#docs" className="text-gray-700 hover:text-techflow-blue block px-3 py-2 transition-colors">Docs</a>
               <a href="#contact" className="text-gray-700 hover:text-techflow-blue block px-3 py-2 transition-colors">Contact</a>
